@@ -7,6 +7,7 @@ This project focuses on developing an interactive, predictive tool for determini
 
 
 # Skills and Techniques 🚀
+
 **1.Data Cleaning and Preprocessing
 2.Exploratory Data Analysis (EDA)
 3.Machine Learning Model Development
@@ -17,12 +18,15 @@ This project focuses on developing an interactive, predictive tool for determini
 
 
 # Problem Statement 📝
-**Objective**: Build an intuitive and accurate predictive tool that estimates the prices of used cars based on various features (e.g., make, model, year, fuel type, transmission type, and city). This tool is deployed as an interactive web application on Streamlit, enabling both customers and sales representatives to seamlessly predict car prices in real time.
+**Objective**: 
+Build an intuitive and accurate predictive tool that estimates the prices of used cars based on various features (e.g., make, model, year, fuel type, transmission type, and city). This tool is deployed as an interactive web application on Streamlit, enabling both customers and sales representatives to seamlessly predict car prices in real time.
 
-**Project Scope**: Car Dheko’s historical dataset provides essential car features from different cities. The task is to process this data, build a machine learning model for price prediction, and deploy the model as a Streamlit web app.
+**Project Scope**: 
+Car Dheko’s historical dataset provides essential car features from different cities. The task is to process this data, build a machine learning model for price prediction, and deploy the model as a Streamlit web app.
 
 
 # Business Use Cases 💼
+
 **Enhanced Customer Experience**: Offers customers easy access to realistic price estimates.
 **Sales Optimization:** Helps sales representatives set competitive prices based on accurate data.
 **Operational Efficiency:** Enables streamlined pricing processes, minimizing manual assessments.
@@ -85,11 +89,13 @@ Use evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MS
 **Documentation:** Clarity and comprehensiveness of project documentation.
 
 # Data Set 📂
+
       Sources: Multiple Excel files from Car Dekho for different cities.
       Features: Includes car specifications like make, model, mileage, engine type, year, city, etc.
       Preprocessing Steps: Handled missing values, standardized formats, encoded categorical variables, and normalized numerical data.
 
 # Project Deliverables 📝
+
 **Source Code:**
         Data Preprocessing Script: For cleaning and structuring the data.
         EDA & Visualization: In-depth exploration of data patterns.
@@ -98,6 +104,7 @@ Use evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MS
         Streamlit Application: Deployed interactive web application for price prediction.
 
 # Streamlit Application 🌐
+
 **Features:**
        User Input Options: Accepts details like make, model, fuel type, year, and city.
        Instant Price Prediction: Outputs a predicted price based on the input data.

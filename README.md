@@ -169,11 +169,6 @@ Use evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MS
 
 
 
-# Video Demonstration 🎥
-Click below to watch how the Streamlit app works in this demonstration:
-
-"C:\Users\Shalini\Downloads\car dekho   project  full video.mp4"
-
 
 
 

@@ -8,13 +8,13 @@ This project focuses on developing an interactive, predictive tool for determini
 
 # Skills and Techniques 🚀
 
-**1.Data Cleaning and Preprocessing
+1.Data Cleaning and Preprocessing
 2.Exploratory Data Analysis (EDA)
 3.Machine Learning Model Development
 4.Price Prediction Techniques
 5.Model Evaluation and Optimization
 6.Model Deployment with Streamlit
-7.Documentation and Reporting**
+7.Documentation and Reporting
 
 
 # Problem Statement 📝
@@ -28,9 +28,14 @@ Car Dheko’s historical dataset provides essential car features from different 
 # Business Use Cases 💼
 
 **Enhanced Customer Experience**: Offers customers easy access to realistic price estimates.
+
 **Sales Optimization:** Helps sales representatives set competitive prices based on accurate data.
+
 **Operational Efficiency:** Enables streamlined pricing processes, minimizing manual assessments.
+
 **Informed Decision-Making:** Provides insights for strategic planning based on predictive analysis.
+
+
 
 # Approach 🔍
 

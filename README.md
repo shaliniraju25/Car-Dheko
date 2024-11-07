@@ -143,7 +143,7 @@ Use evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MS
 # Project Deliverables 📝
 
 
-**Source Code:** 
+# Source Code:
 
 **Data Preprocessing Script:** For cleaning and structuring the data.
 
@@ -159,7 +159,7 @@ Use evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MS
 
 # Streamlit Application 🌐
 
-**Features:**
+# Features:
 
 **User Input Options:** Accepts details like make, model, fuel type, year, and city.
 
